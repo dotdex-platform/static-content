@@ -1,0 +1,37 @@
+{
+  "name": "Dotdex token list",
+  "timestamp": "2025-09-03T00:18:27+03:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["dotdex", "default"],
+  "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/dotdex.png",
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x31944AF236f33b66718767c73ddE91c3371ec608",
+      "name": "Dot Dex Reserve",
+      "symbol": "DDR",
+      "decimals": 18,
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x31944AF236f33b66718767c73ddE91c3371ec608.png",
+      "extensions": { "isFavorite": true }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x97827e471E58c4F9b7009006E25F5bC9cec8A696",
+      "name": "Dotdex dollar",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x97827e471E58c4F9b7009006E25F5bC9cec8A696.png",
+      "extensions": { "isFavorite": true }
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x3F73dD4b54cD9284B4ac4bdB0CAdc3E0D8B9Af08",
+      "name": "Bit Russia Gold",
+      "symbol": "BRG",
+      "decimals": 18,
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x3F73dD4b54cD9284B4ac4bdB0CAdc3E0D8B9Af08.png",
+      "extensions": { "isFavorite": true }
+    }
+  ]
+}
