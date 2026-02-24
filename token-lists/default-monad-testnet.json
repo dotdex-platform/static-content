@@ -8,29 +8,29 @@
   "tokens": [
     {
       "chainId": 10143,
-      "address": "0x31944AF236f33b66718767c73ddE91c3371ec608",
+      "address": "0xbf39fc2f3b4563229e050db15e6aec18609119c7",
       "name": "Dot Dex Reserve",
       "symbol": "DDR",
       "decimals": 18,
-      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x31944AF236f33b66718767c73ddE91c3371ec608.png",
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0xbf39fc2f3b4563229e050db15e6aec18609119c7.png",
       "extensions": { "isFavorite": true }
     },
     {
       "chainId": 10143,
-      "address": "0x97827e471E58c4F9b7009006E25F5bC9cec8A696",
+      "address": "0x24404034e17781b6850Cd82e3E189b90E73edc4A",
       "name": "Dotdex dollar",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x97827e471E58c4F9b7009006E25F5bC9cec8A696.png",
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x24404034e17781b6850Cd82e3E189b90E73edc4A.png",
       "extensions": { "isFavorite": true }
     },
     {
       "chainId": 10143,
-      "address": "0x3F73dD4b54cD9284B4ac4bdB0CAdc3E0D8B9Af08",
+      "address": "0x06B9E155C3D79A491260B2574E876f611C29eFaC",
       "name": "Bit Russia Gold",
       "symbol": "BRG",
       "decimals": 18,
-      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x3F73dD4b54cD9284B4ac4bdB0CAdc3E0D8B9Af08.png",
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x06B9E155C3D79A491260B2574E876f611C29eFaC.png",
       "extensions": { "isFavorite": true }
     }
   ]
