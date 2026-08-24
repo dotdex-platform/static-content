@@ -17,7 +17,7 @@
     },
     {
       "chainId": 1,
-      "address": "0x14617221Dbd9860bD12DE29CF903F7C44b1c119B",
+      "address": "0x14617221dbd9860bd12de29cf903f7c44b1c119b",
       "name": "Goldex",
       "symbol": "GLX",
       "decimals": 18,
