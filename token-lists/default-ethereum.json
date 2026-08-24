@@ -16,12 +16,12 @@
       "extensions": { "isFavorite": true }
     },
     {
-      "chainId": 11155111,
-      "address": "0x14617221Dbd9860bD12DE29CF903F7C44b1c119B",
+      "chainId": 1,
+      "address": "0x5e0ecd0b42F82cE1829AE71a42BDB82b0498Ba93",
       "name": "Goldex",
       "symbol": "GLX",
       "decimals": 18,
-      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x14617221Dbd9860bD12DE29CF903F7C44b1c119B.png",
+      "logoURI": "https://dotdex-platform.github.io/static-content/tokens/logos/0x5e0ecd0b42F82cE1829AE71a42BDB82b0498Ba93.png",
       "extensions": { "isFavorite": true }
     }
   ]
